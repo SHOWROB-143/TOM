@@ -1,7 +1,5 @@
 #WRITTEN BY SHOWROB CHOWDHURY
 #FOLLOW MY GITHUB : https://github.com/SHOWROB-143
-print( '\033[1;35mFOLLOW MY FACEBOOK ACCOUNT♥........')
-os.system('xdg-open https://www.facebook.com/its.me.showrob.okh')
 
 
 import marshal 
