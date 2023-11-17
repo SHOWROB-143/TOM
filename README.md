@@ -7,9 +7,9 @@ rm -rf TOM
 git clone https://github.com/SHOWROB-143/TOM 
 cd TOM 
 git pull
-python SHOWROB.py
+python FILE.py
 ```
 ### Short cut command installation:
 ```
-rm -rm TOM && git clone https://github.com/SHOWROB-143/TOM && cd TOM && python SHOWROB.py
+rm -rm TOM && git clone https://github.com/SHOWROB-143/TOM && cd TOM && python FILE.py
 ```
