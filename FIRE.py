@@ -1,0 +1,2 @@
+import FIRE
+FIRE.login()
